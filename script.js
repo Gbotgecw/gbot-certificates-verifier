@@ -25,7 +25,7 @@ const CERTIFICATES = [
     program: "G-Bot Maker Series: Concept to Circuit",
     module: "CAD Fundamentals",
     type: "Certificate of Participation",
-    date: "15 July 2026",
+    date: "12 July 2026",
     issuedBy: "GBOT Robotics Club, GEC Wayanad"
   }
 ];
