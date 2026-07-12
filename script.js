@@ -23,7 +23,7 @@ const CERTIFICATES = [
     name: "MUHAMMED MASHHOOD K",
     college: "Government Engineering College Wayanad",
     program: "G-Bot Maker Series: Concept to Circuit",
-    module: "CAD Fundamentals ",
+    module: "Week 1 \u2014 CAD Fundamentals",
     type: "Certificate of Participation",
     date: "12 July 2026",
     issuedBy: "GBOT Robotics Club, GEC Wayanad"
