@@ -28,16 +28,6 @@ const CERTIFICATES = [
     date: "15 July 2026",
     issuedBy: "GBOT Robotics Club, GEC Wayanad"
   }
-   {
-    id: "GBOT-DEMO-0002",
-    name: "MUHAMMED MASHHOOD K",
-    college: "Government Engineering College Wayanad",
-    program: "G-Bot Maker Series: Concept to Circuit",
-    module: "Week 1 \u2014 CAD Fundamentals",
-    type: "Certificate of Participation",
-    date: "15 July 2026",
-    issuedBy: "GBOT Robotics Club, GEC Wayanad"
-  }
 ];
 
 function normalize(s){ return (s || "").trim().toUpperCase(); }
