@@ -18,26 +18,26 @@
 const CERTIFICATES = [
   // SAMPLE RECORD — delete this once you add real participants.
   // Try the demo: search for GBOT-DEMO-0001 on the home page.
-  {
-    id: "GBOT-DEMO-0H01",
-    name: "MUHAMMED MASHHOOD K",
-    college: "Government Engineering College Wayanad",
-    program: "G-Bot Maker Series: Concept to Circuit",
-    module: "Week 1 \u2014 CAD Fundamentals",
-    type: "Certificate of Participation",
-    date: "15 July 2026",
-    issuedBy: "GBOT Robotics Club, GEC Wayanad"
-  },
-   {
-    id: "GBOT-CTC-2026-0y02",
-    name: "Aparna Suresh",
-    college: "Government Engineering College Wayanad",
-    program: "G-Bot Maker Series: Concept to Circuit",
-    module: "Week 2 \u2014 Electronics Basics",
-    type: "Certificate of Participation",
-    date: "22 July 2026",
-    issuedBy: "GBOT Robotics Club, GEC Wayanad"
-  }
+  // {
+  //   id: "GBOT-DEMO-0H01",
+  //   name: "MUHAMMED MASHHOOD K",
+  //   college: "Government Engineering College Wayanad",
+  //   program: "G-Bot Maker Series: Concept to Circuit",
+  //   module: "Week 1 \u2014 CAD Fundamentals",
+  //   type: "Certificate of Participation",
+  //   date: "15 July 2026",
+  //   issuedBy: "GBOT Robotics Club, GEC Wayanad"
+  // },
+  //  {
+  //   id: "GBOT-CTC-2026-0y02",
+  //   name: "Aparna Suresh",
+  //   college: "Government Engineering College Wayanad",
+  //   program: "G-Bot Maker Series: Concept to Circuit",
+  //   module: "Week 2 \u2014 Electronics Basics",
+  //   type: "Certificate of Participation",
+  //   date: "22 July 2026",
+  //   issuedBy: "GBOT Robotics Club, GEC Wayanad"
+  // }
 ];
 
 function normalize(s){ return (s || "").trim().toUpperCase(); }
