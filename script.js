@@ -19,7 +19,7 @@ const CERTIFICATES = [
   // SAMPLE RECORD — delete this once you add real participants.
   // Try the demo: search for GBOT-DEMO-0001 on the home page.
   {
-    id: "GBOT-DEMO-0001",
+    id: "GBOT-DEMO-0H01",
     name: "MUHAMMED MASHHOOD K",
     college: "Government Engineering College Wayanad",
     program: "G-Bot Maker Series: Concept to Circuit",
@@ -29,7 +29,7 @@ const CERTIFICATES = [
     issuedBy: "GBOT Robotics Club, GEC Wayanad"
   },
    {
-    id: "GBOT-CTC-2026-0002",
+    id: "GBOT-CTC-2026-0y02",
     name: "Aparna Suresh",
     college: "Government Engineering College Wayanad",
     program: "G-Bot Maker Series: Concept to Circuit",
