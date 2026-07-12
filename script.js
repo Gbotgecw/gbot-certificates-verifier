@@ -27,6 +27,16 @@ const CERTIFICATES = [
     type: "Certificate of Participation",
     date: "15 July 2026",
     issuedBy: "GBOT Robotics Club, GEC Wayanad"
+  },
+   {
+    id: "GBOT-CTC-2026-0002",
+    name: "Aparna Suresh",
+    college: "Government Engineering College Wayanad",
+    program: "G-Bot Maker Series: Concept to Circuit",
+    module: "Week 2 \u2014 Electronics Basics",
+    type: "Certificate of Participation",
+    date: "22 July 2026",
+    issuedBy: "GBOT Robotics Club, GEC Wayanad"
   }
 ];
 
